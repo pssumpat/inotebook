@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 // Replace 'your-mongodb-uri' with the actual connection URI of your MongoDB database.
-const mongoURI = 'mongodb://127.0.0.1:27017/iNotebook';
+const mongoURI = 'mongodb+srv://sumit-user:NhVxyLtfk9FU5On3@cluster0.ryik6ur.mongodb.net/?retryWrites=true&w=majority';
 
 connectToMongoose = () => {
 
